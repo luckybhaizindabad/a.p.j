@@ -1,0 +1,15 @@
+body {
+    background-color: #F0F8FF;
+    border: 2px solid black;
+}
+img {
+    float: left;
+    border-radius: 50%;
+}
+p {
+    clear: left;
+    margin-top: 100px
+}
+.right {
+    text-align: right;
+}
